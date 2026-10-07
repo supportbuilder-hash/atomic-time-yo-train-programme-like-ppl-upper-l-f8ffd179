@@ -1,0 +1,849 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "programs": "Programas",
+    "blog": "Blog",
+    "successStories": "Historias de Éxito",
+    "signup": "Registrarse"
+  },
+  "cta": {
+    "primary": "Comenzar Entrenamiento"
+  },
+  "footer": {
+    "tagline": "Entrena más inteligente. Levanta más pesado. Cambia tu split.",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "explore": "Explorar",
+      "company": "Empresa"
+    },
+    "links": {
+      "home": "Inicio",
+      "pricing": "Precios",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "programs": "Programas",
+      "blog": "Blog",
+      "successStories": "Historias de Éxito",
+      "signup": "Registrarse"
+    }
+  },
+  "pricingPage": {
+    "hero": {
+      "eyebrow": "Planes de entrenamiento",
+      "title": "Elige un split que se adapte a tu horario",
+      "subtitle": "Ya sea que entrenes tres días a la semana o seis, elige un programa único, una membresía rotativa o entrenamiento personalizado basado en splits Upper/Lower, Push/Pull/Legs y Full Body."
+    },
+    "comparison": {
+      "title": "Compara cada plan lado a lado",
+      "subtitle": "Todos los planes incluyen acceso de por vida a la biblioteca de ejercicios y registro de entrenamientos compatible con dispositivos móviles.",
+      "header": {
+        "feature": "Característica",
+        "oneTime": "Único",
+        "membership": "Membresía",
+        "coaching": "Entrenamiento Personalizado"
+      },
+      "rows": [
+        {
+          "feature": "Program type",
+          "oneTime": "Fixed 12-week plan",
+          "membership": "Rotating monthly plans",
+          "coaching": "Fully custom"
+        },
+        {
+          "feature": "Available splits",
+          "oneTime": "Upper/Lower or PPL",
+          "membership": "Upper/Lower, PPL, Full Body",
+          "coaching": "Any split, built for you"
+        },
+        {
+          "feature": "Progress tracking",
+          "oneTime": "—",
+          "membership": "Included",
+          "coaching": "Included"
+        },
+        {
+          "feature": "Coach check-ins",
+          "oneTime": "—",
+          "membership": "—",
+          "coaching": "Weekly"
+        },
+        {
+          "feature": "Support",
+          "oneTime": "Email",
+          "membership": "Priority email",
+          "coaching": "Direct messaging"
+        },
+        {
+          "feature": "Program updates",
+          "oneTime": "One-time",
+          "membership": "Every 4 weeks",
+          "coaching": "Ongoing"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas",
+      "title": "Preguntas frecuentes",
+      "subtitle": "¿Aún indeciso entre splits o planes? Aquí está lo que la mayoría de levantadores preguntan primero.",
+      "items": [
+        {
+          "question": "What is the difference between Upper/Lower and Push/Pull/Legs?",
+          "answer": "Upper/Lower splits your week into two session types, hitting every muscle group twice if you train four days. Push/Pull/Legs separates pushing muscles, pulling muscles, and legs into three distinct sessions, which suits lifters training five to six days a week."
+        },
+        {
+          "question": "Can I switch between plans later?",
+          "answer": "Yes. Membership and Coaching customers can switch their active split at any time from their dashboard, and One-Time customers can upgrade to Membership with credit applied toward their first month."
+        },
+        {
+          "question": "Do I need a full gym to follow these programs?",
+          "answer": "Most programs are written for a standard gym with barbells, dumbbells, and basic machines. Each plan also includes simplified substitutions for home gyms with limited equipment."
+        },
+        {
+          "question": "Is coaching worth it if I am new to training?",
+          "answer": "Coaching is especially useful early on, since your coach corrects form, adjusts load each week, and keeps your split realistic for your schedule and recovery."
+        },
+        {
+          "question": "Can I cancel my membership anytime?",
+          "answer": "Yes, Membership and Coaching are both month-to-month with no contract. You can cancel from account settings and you will keep access until the end of your billing period."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Elige tu split. Comienza tu próxima sesión hoy.",
+      "subtitle": "Cada plan incluye acceso de por vida a nuestra biblioteca de ejercicios y una garantía de satisfacción de 7 días.",
+      "primaryLabel": "Comenzar con Membresía",
+      "secondaryLabel": "Hablar con un entrenador"
+    },
+    "tiers": [
+      {
+        "name": "One-Time Program",
+        "price": "$49",
+        "period": "one-time",
+        "description": "Get a complete split built once, yours to keep and repeat for as long as you want.",
+        "features": [
+          "Choose Upper/Lower or Push/Pull/Legs",
+          "12-week periodized plan",
+          "Full exercise video library access",
+          "Printable and app-based workout sheets",
+          "Email support for setup questions"
+        ],
+        "ctaLabel": "Buy the program",
+        "highlighted": false
+      },
+      {
+        "name": "Membership",
+        "price": "$19",
+        "period": "/month",
+        "description": "New programs every four weeks, rotating splits, and tools to track every session.",
+        "features": [
+          "Everything in One-Time, plus:",
+          "A new program every 4 weeks",
+          "Upper/Lower, PPL and Full Body rotations",
+          "Progress tracking dashboard",
+          "Priority email support",
+          "Cancel anytime"
+        ],
+        "ctaLabel": "Start your membership",
+        "highlighted": true,
+        "badge": "Most popular"
+      },
+      {
+        "name": "1:1 Coaching",
+        "price": "$149",
+        "period": "/month",
+        "description": "Work directly with a coach who builds and adjusts your split around your life.",
+        "features": [
+          "Everything in Membership, plus:",
+          "A custom split built around your schedule",
+          "Weekly check-ins and form review",
+          "Direct messaging with your coach",
+          "Nutrition guidance",
+          "Monthly program adjustments"
+        ],
+        "ctaLabel": "Apply for coaching",
+        "highlighted": false
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "El equipo detrás de ShiftSplit",
+      "title": "Creado por un entrenador cansado de",
+      "titleAccent": "adivinar qué split realmente funciona.",
+      "subtitle": "ShiftSplit comenzó como una hoja de cálculo para el programa upper/lower de un gimnasio. Hoy es el sistema de entrenamiento detrás de cada split, ciclo y deload que escribimos.",
+      "ctaPrimary": "Ver nuestros planes",
+      "ctaSecondary": "Habla con nosotros"
+    },
+    "story": {
+      "eyebrow": "Nuestra historia",
+      "title": "De una pizarra a un sistema de entrenamiento completo",
+      "paragraph1": "ShiftSplit fue fundada por el entrenador de fuerza Jordan Cole después de años viendo levantadores cambiar entre programas aleatorios, persiguiendo el dolor muscular en lugar del progreso. La primera versión era un split upper/lower laminado pegado a un rack de sentadillas.",
+      "paragraph2": "Ese experimento al lado del rack se convirtió en un método estructurado para secuenciar días upper, lower, push, pull y leg para que el volumen, la recuperación e intensidad se alineen realmente con la semana de un levantador, no en su contra.",
+      "imageAlt": "Entrenador de fuerza revisando un programa de entrenamiento en un portapapeles",
+      "badgeLabel": "Años entrenando",
+      "milestonesTitle": "Cómo llegamos aquí",
+      "milestones": [
+        {
+          "year": "2016",
+          "title": "First upper/lower template",
+          "description": "Jordan writes the original 4-day split for a small barbell club of 12 lifters."
+        },
+        {
+          "year": "2018",
+          "title": "Certified strength coach",
+          "description": "Formal certification in strength and conditioning, refining the split around real recovery data."
+        },
+        {
+          "year": "2020",
+          "title": "Push/pull/legs added",
+          "description": "A 6-day variant is built for lifters training more frequently without burning out."
+        },
+        {
+          "year": "2022",
+          "title": "ShiftSplit goes digital",
+          "description": "The paper templates become a guided app so any lifter can follow the same system."
+        },
+        {
+          "year": "2024",
+          "title": "500+ programs delivered",
+          "description": "ShiftSplit plans are now used by home lifters, college athletes and competitive powerlifters alike."
+        }
+      ]
+    },
+    "credentials": {
+      "eyebrow": "Credenciales",
+      "title": "Coaching respaldado por cualificaciones reales",
+      "subtitle": "Cada programa es diseñado y revisado por entrenadores de fuerza certificados, no por un algoritmo genérico.",
+      "items": [
+        {
+          "title": "Certified Strength & Conditioning Specialist",
+          "issuer": "National Strength Coaching Board"
+        },
+        {
+          "title": "Precision Nutrition Level 1",
+          "issuer": "Precision Nutrition"
+        },
+        {
+          "title": "USA Powerlifting Coach",
+          "issuer": "USA Powerlifting"
+        },
+        {
+          "title": "Corrective Exercise Specialist",
+          "issuer": "Movement Health Institute"
+        },
+        {
+          "title": "Regional Coaching Award",
+          "issuer": "Iron State Athletics"
+        },
+        {
+          "title": "Continuing Education, Hypertrophy Programming",
+          "issuer": "Applied Strength Lab"
+        }
+      ]
+    },
+    "approach": {
+      "eyebrow": "Nuestro enfoque",
+      "title": "Filosofía de entrenamiento, no solo un generador de entrenamientos",
+      "subtitle": "Cada programa de ShiftSplit sigue los mismos cuatro principios, ya sea que seas nuevo en upper/lower o profundices en un ciclo push/pull/legs.",
+      "principles": [
+        {
+          "title": "Recovery drives the split",
+          "description": "Upper and lower days are spaced so no muscle group is trained before it's ready, not just on a fixed calendar."
+        },
+        {
+          "title": "Progress is measured, not assumed",
+          "description": "Every block tracks load, reps and effort so the next phase is built on real numbers, not guesswork."
+        },
+        {
+          "title": "Simplicity beats complexity",
+          "description": "A handful of core lifts done consistently beats a dozen exercises done once and forgotten."
+        },
+        {
+          "title": "The plan adapts to you",
+          "description": "Missed a session or had a rough week? The split shifts around your life instead of punishing you for it."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "De la comunidad",
+      "title": "Levantadores que cambiaron a un split real",
+      "items": [
+        {
+          "quote": "I'd been doing the same full-body routine for two years. Switching to ShiftSplit's upper/lower program is the first time my lifts have moved in months.",
+          "name": "Maya Reyes",
+          "role": "Home gym lifter"
+        },
+        {
+          "quote": "The push/pull/legs plan finally gave my training structure. I know exactly what I'm doing and why on every single day.",
+          "name": "Daniel Osei",
+          "role": "College athlete"
+        },
+        {
+          "quote": "As a coach myself, I appreciate that the programming actually respects recovery instead of just adding more sets.",
+          "name": "Priya Nair",
+          "role": "Competitive powerlifter"
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para entrenar en un programa real?",
+      "subtitle": "Elige un plan upper/lower o push/pull/legs construido en el mismo sistema que nuestros entrenadores usan con sus propios atletas.",
+      "primary": "Ver precios",
+      "secondary": "Hacer una pregunta"
+    }
+  },
+  "contactPage": {
+    "header": {
+      "eyebrow": "Ponte en contacto",
+      "title": "Hablemos sobre tu split",
+      "subtitle": "¿Preguntas sobre programación upper/lower, coaching o qué split se ajusta a tu horario? Envía un mensaje y nuestro equipo de coaching responderá dentro de un día hábil."
+    },
+    "form": {
+      "nameLabel": "Nombre completo",
+      "namePlaceholder": "Jordan Carter",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "Pregunta sobre mi programa",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntanos sobre tus objetivos de entrenamiento, horario o dónde estás atascado...",
+      "submitLabel": "Enviar mensaje",
+      "submittingLabel": "Enviando...",
+      "successTitle": "Mensaje enviado",
+      "successMessage": "Gracias por comunicarte. Nuestro equipo de coaching responde dentro de un día hábil.",
+      "errorName": "Por favor ingresa tu nombre.",
+      "errorEmail": "Ingresa una dirección de correo válida.",
+      "errorSubject": "Cuéntanos de qué se trata.",
+      "errorMessage": "Añade más detalles para que podamos ayudarte."
+    },
+    "info": {
+      "eyebrow": "Datos de contacto",
+      "title": "Contacta con el equipo de entrenamiento",
+      "subtitle": "¿Prefieres no usar el formulario? Aquí encontrarás todas las formas de localizarnos, además de dónde publicamos actualizaciones de programación.",
+      "emailLabel": "Correo electrónico",
+      "emailValue": "coach@shiftsplit.com",
+      "phoneLabel": "Teléfono",
+      "phoneValue": "+1 (555) 024-8310",
+      "addressLabel": "Estudio",
+      "addressValue": "118 Foundry Row, Austin, TX 78702",
+      "hoursLabel": "Horario de entrenamiento",
+      "hoursValue": "Lun–Vie, 7am–7pm CT",
+      "socialTitle": "Síguenos",
+      "socialTwitter": "ShiftSplit en Twitter",
+      "socialFacebook": "ShiftSplit en Facebook",
+      "socialLinkedin": "ShiftSplit en LinkedIn"
+    },
+    "faq": {
+      "eyebrow": "Preguntas",
+      "title": "Antes de contactarnos",
+      "subtitle": "Respuestas rápidas a las preguntas más frecuentes sobre cómo elegir y ejecutar un split superior/inferior.",
+      "items": [
+        {
+          "question": "How is the upper/lower split structured?",
+          "answer": "Each training week alternates two upper-body and two lower-body sessions, with an optional fifth conditioning day you can skip or swap for a full rest day."
+        },
+        {
+          "question": "Can I switch between upper/lower and full-body programming?",
+          "answer": "Yes. Change your split from your account at any time and your next training block will be rebuilt around the new structure automatically."
+        },
+        {
+          "question": "Do I need a full gym to follow the programs?",
+          "answer": "The default programming assumes a standard gym setup, but most lifts include a dumbbell-only or home-gym substitution so you're never stuck."
+        },
+        {
+          "question": "How fast will I hear back from support?",
+          "answer": "Our coaching team answers every message within one business day, and usually much sooner on weekdays."
+        },
+        {
+          "question": "Is coaching feedback included with every plan?",
+          "answer": "Form-check video reviews and weekly check-ins come with the Coached and Elite plans. The free split templates are self-guided."
+        }
+      ]
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Programación más inteligente",
+      "title": "Encuentra el split de entrenamiento diseñado para tu horario",
+      "subtitle": "Superior/inferior, empuje/tracción/piernas, cuerpo completo o un bro split. ShiftSplit adapta tu semana, tus objetivos y tu recuperación a un programa que realmente completarás.",
+      "primaryCta": "Crear mi programa",
+      "secondaryCta": "Ver cómo funciona",
+      "imageAlt": "Levantador a mitad de una serie durante una sesión de entrenamiento de fuerza"
+    },
+    "splits": {
+      "eyebrow": "Splits de entrenamiento",
+      "title": "Cada split tiene un propósito. Elige el que se ajuste a tu semana.",
+      "subtitle": "Ningún split es objetivamente mejor. Cada uno intercambia frecuencia, recuperación y tiempo de manera diferente, así que la opción correcta depende de tu horario y tu objetivo.",
+      "items": [
+        {
+          "title": "Upper / Lower",
+          "frequency": "4 days a week",
+          "bestFor": "Strength and balance",
+          "description": "Alternates upper and lower body sessions so each muscle group gets trained twice weekly with a full day of recovery between hits."
+        },
+        {
+          "title": "Push / Pull / Legs",
+          "frequency": "6 days a week",
+          "bestFor": "Hypertrophy",
+          "description": "Groups exercises by movement pattern. High training frequency suits lifters chasing muscle growth who can commit to near-daily sessions."
+        },
+        {
+          "title": "Full Body",
+          "frequency": "3 days a week",
+          "bestFor": "Limited time",
+          "description": "Hits every major muscle group each session. Efficient for lifters who can only get to the gym a few times a week."
+        },
+        {
+          "title": "Bro Split",
+          "frequency": "5 days a week",
+          "bestFor": "Isolation focus",
+          "description": "One muscle group per day with a full week of recovery between sessions, giving maximum volume and focus to each body part."
+        }
+      ]
+    },
+    "how": {
+      "eyebrow": "Cómo funciona",
+      "title": "De tu horario a tu primera sesión, en cuatro pasos",
+      "subtitle": "ShiftSplit construye el plan según la frecuencia con la que realmente puedas entrenar, y lo mantiene actualizado a medida que cambian tu recuperación y tus objetivos.",
+      "steps": [
+        {
+          "title": "Tell us your schedule",
+          "description": "Pick how many days a week you can train and we shortlist the splits that realistically fit that frequency."
+        },
+        {
+          "title": "Pick your split",
+          "description": "Compare upper/lower, push/pull/legs, full body and bro split side by side before committing to one."
+        },
+        {
+          "title": "Follow the program",
+          "description": "Every session comes with exercises, sets, reps, rest periods and a clear progression built in."
+        },
+        {
+          "title": "Adjust as you grow",
+          "description": "Swap exercises, shift weekly volume or change splits entirely as your recovery and goals change."
+        }
+      ]
+    },
+    "programs": {
+      "eyebrow": "Programas",
+      "title": "Tres puntos de partida, basados en los splits anteriores",
+      "subtitle": "Cada programa es una versión lista para usar de un split, adaptada a la experiencia de entrenamiento y al presupuesto de tiempo semanal.",
+      "cta": "Ver programa",
+      "items": [
+        {
+          "title": "Upper/Lower Strength",
+          "days": "4 days a week",
+          "focus": "Strength",
+          "description": "A 4-day upper/lower rotation built around compound lifts, with built-in load progression for lifters chasing strength with manageable recovery."
+        },
+        {
+          "title": "PPL Hypertrophy",
+          "days": "6 days a week",
+          "focus": "Muscle growth",
+          "description": "A 6-day push/pull/legs rotation with higher set volume per muscle group, for lifters who want maximum training frequency."
+        },
+        {
+          "title": "Full Body Foundations",
+          "days": "3 days a week",
+          "focus": "Beginners",
+          "description": "A 3-day full body program covering every major muscle group each session, built for beginners or anyone training on limited time."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas",
+      "title": "Antes de elegir un split",
+      "subtitle": "Las preguntas más frecuentes que hacen los levantadores antes de comenzar un nuevo programa.",
+      "items": [
+        {
+          "question": "How do I know which split is right for me?",
+          "answer": "It comes down to how many days a week you can realistically train and your main goal. Fewer days usually points to full body or upper/lower, more days opens up push/pull/legs or a bro split."
+        },
+        {
+          "question": "Can I switch splits mid program?",
+          "answer": "Yes. You can move between splits at any time and your logged history carries over, so you keep your progression data when you switch."
+        },
+        {
+          "question": "Do I need a full gym to follow these programs?",
+          "answer": "No. Each program lists substitutions for home or limited equipment setups alongside the standard gym version of each exercise."
+        },
+        {
+          "question": "How long before I should expect progress?",
+          "answer": "Most lifters see consistent load or rep progression within 6 to 8 weeks of following a program without missing sessions."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para cambiar tu split?",
+      "subtitle": "Elige un plan, selecciona tu split y obtén tu primera semana de sesiones hoy.",
+      "primary": "Construir mi programa",
+      "secondary": "Más información sobre nosotros"
+    }
+  },
+  "programsPage": {
+    "hero": {
+      "eyebrow": "Programas de entrenamiento",
+      "title": "Cada división, desglosada día a día",
+      "subtitle": "Ve exactamente cómo se estructuran Upper/Lower, Push/Pull/Legs y Full Body, qué equipo necesita cada uno y cuál división se adapta mejor a cada levantador antes de comprometerte.",
+      "secondaryLabel": "Encuentra tu división"
+    },
+    "splits": {
+      "eyebrow": "Las tres divisiones principales",
+      "title": "Compara la estructura antes de elegir",
+      "subtitle": "Cada división organiza los mismos levantamientos principales de manera diferente. La frecuencia, el equipo y las demandas de recuperación son lo que realmente las diferencia.",
+      "items": [
+        {
+          "title": "Upper / Lower",
+          "frequency": "4 days a week",
+          "schedule": "Mon Upper, Tue Lower, Wed Rest, Thu Upper, Fri Lower, Sat-Sun Rest",
+          "equipment": "Barbell, dumbbells, bench, squat rack, pull-up bar",
+          "bestFor": "Strength and balance",
+          "description": "Alternates upper and lower body sessions so every major muscle group trains twice a week with a full day of recovery between hits. The most time-efficient option for building strength without daily gym trips."
+        },
+        {
+          "title": "Push / Pull / Legs",
+          "frequency": "6 days a week",
+          "schedule": "Mon Push, Tue Pull, Wed Legs, Thu Push, Fri Pull, Sat Legs, Sun Rest",
+          "equipment": "Full barbell and dumbbell set, cable machine, squat rack, bench",
+          "bestFor": "Hypertrophy and high frequency",
+          "description": "Groups exercises by movement pattern so pushing, pulling and leg muscles each get dedicated volume twice a week. Suits lifters who can commit to near-daily sessions and want maximum muscle growth."
+        },
+        {
+          "title": "Full Body",
+          "frequency": "3 days a week",
+          "schedule": "Mon Full Body, Tue Rest, Wed Full Body, Thu Rest, Fri Full Body, Sat-Sun Rest",
+          "equipment": "Barbell, dumbbells, bench, squat rack",
+          "bestFor": "Beginners and limited time",
+          "description": "Trains every major muscle group in each session, making it the most efficient split for lifters who can only get to the gym three times a week or who are new to structured training."
+        }
+      ]
+    },
+    "schedule": {
+      "eyebrow": "Semana de ejemplo",
+      "title": "Cómo se ve realmente una semana de entrenamiento",
+      "subtitle": "Este ejemplo sigue la división Upper/Lower de 4 días, el punto de partida más popular para levantadores que entrenan 3 a 5 días a la semana.",
+      "items": [
+        {
+          "day": "Monday",
+          "focus": "Upper Body",
+          "description": "Bench press, barbell rows, overhead press and accessory pulling work."
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Lower Body",
+          "description": "Back squat, Romanian deadlift, leg press and calf work."
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Rest",
+          "description": "Full recovery day, light walking or mobility work only."
+        },
+        {
+          "day": "Thursday",
+          "focus": "Upper Body",
+          "description": "Incline press, pull-ups, lateral raises and arm accessories."
+        },
+        {
+          "day": "Friday",
+          "focus": "Lower Body",
+          "description": "Deadlift, front squat, hip thrusts and core finisher."
+        },
+        {
+          "day": "Saturday",
+          "focus": "Optional Conditioning",
+          "description": "Light cardio or sport activity, skip if recovery is behind schedule."
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "description": "Complete rest before the next training week begins."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas",
+      "title": "Elegir el programa correcto",
+      "subtitle": "Las preguntas más comunes que hacen los levantadores antes de elegir una división.",
+      "items": [
+        {
+          "question": "How do I choose between Upper/Lower, Push/Pull/Legs and Full Body?",
+          "answer": "Start with how many days a week you can realistically train. Three days points to Full Body, four days to Upper/Lower, and five to six days opens up Push/Pull/Legs for higher training frequency."
+        },
+        {
+          "question": "What equipment do I actually need?",
+          "answer": "Every split is built around a barbell, a rack, a bench and a set of dumbbells. Push/Pull/Legs also benefits from a cable machine, though each session lists a substitution if you train at home."
+        },
+        {
+          "question": "Can I switch programs once I've started?",
+          "answer": "Yes. You can change your split at any time from your account dashboard and your next training block is rebuilt around the new schedule automatically."
+        },
+        {
+          "question": "Which program is best if I'm a complete beginner?",
+          "answer": "Full Body is the easiest entry point since it repeats the same core lifts three times a week, building technique and consistency before moving to a higher-frequency split like Upper/Lower."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Encontraste tu división? Comienza tu primera semana.",
+      "subtitle": "Cada programa incluye un horario semanal completo, videos de ejercicios y progresión integrada desde el primer día.",
+      "primaryLabel": "Comenzar entrenamiento",
+      "secondaryLabel": "Ver precios"
+    }
+  },
+  "signupPage": {
+    "hero": {
+      "eyebrow": "Crear tu cuenta",
+      "title": "Comienza tu programa de entrenamiento hoy",
+      "subtitle": "Crea una cuenta, elige una división y obtén tu primera semana de sesiones al instante. Cancela o cambia de programa en cualquier momento desde tu panel de control."
+    },
+    "form": {
+      "nameLabel": "Nombre completo",
+      "emailLabel": "Correo electrónico",
+      "passwordLabel": "Contraseña",
+      "programLabel": "Elige tu programa",
+      "submitLabel": "Crear cuenta",
+      "successMessage": "Cuenta creada. Revisa tu correo electrónico para configurar tu primera semana de entrenamiento.",
+      "errorMessage": "Algo salió mal al crear tu cuenta. Por favor, intenta de nuevo.",
+      "loginPrompt": "¿Ya tienes una cuenta?",
+      "loginLabel": "Iniciar sesión",
+      "loginLinkLabel": "¿Ya tienes una cuenta? Inicia sesión",
+      "submittingLabel": "Creando cuenta…"
+    },
+    "programs": {
+      "eyebrow": "Elige tu camino",
+      "selectLabel": "Seleccionar programa",
+      "subtitle": "Elige la división que se adapte a tu horario y objetivos.",
+      "title": "Programas de entrenamiento",
+      "items": [
+        {
+          "name": "One-Time Program",
+          "price": "$49",
+          "description": "A complete 12-week split, yours to keep and repeat for as long as you want."
+        },
+        {
+          "name": "Membership",
+          "price": "$19/month",
+          "description": "A new rotating program every four weeks across Upper/Lower, PPL and Full Body."
+        },
+        {
+          "name": "1:1 Coaching",
+          "price": "$149/month",
+          "description": "A custom split built and adjusted weekly by a certified coach."
+        }
+      ]
+    },
+    "benefits": {
+      "eyebrow": "Lo que obtienes",
+      "title": "Todo se desbloquea en el momento en que te registras",
+      "subtitle": "Tu cuenta te da acceso instantáneo a tu panel de entrenamiento, sin importar qué programa elijas.",
+      "items": [
+        {
+          "title": "Instant program access",
+          "description": "Your first training week is ready the moment your account is created, no waiting on setup."
+        },
+        {
+          "title": "Progress tracking",
+          "description": "Log every set and rep, and watch your load progression chart build week over week."
+        },
+        {
+          "title": "Switch splits anytime",
+          "description": "Change between Upper/Lower, Push/Pull/Legs or Full Body from your dashboard whenever your schedule changes."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas",
+      "title": "Antes de registrarte",
+      "subtitle": "Todo lo que necesitas saber para empezar.",
+      "items": [
+        {
+          "question": "Can I change my program after signing up?",
+          "answer": "Yes, you can switch between Upper/Lower, Push/Pull/Legs and Full Body at any time from your account dashboard."
+        },
+        {
+          "question": "Is there a contract or commitment?",
+          "answer": "No. Membership and Coaching are month-to-month and can be cancelled anytime, and the One-Time Program is a single purchase."
+        },
+        {
+          "question": "What happens after I create my account?",
+          "answer": "You'll get immediate access to your training dashboard and your first week of sessions based on the program you chose."
+        }
+      ]
+    }
+  },
+  "blogPage": {
+    "hero": {
+      "eyebrow": "El diario de ShiftSplit",
+      "title": "Consejos de entrenamiento que vale la pena leer",
+      "subtitle": "Artículos directos sobre splits, programación y recuperación, escritos por nuestro equipo de entrenadores para que puedas entrenar con más confianza, no más adivinanzas.",
+      "cta": "Leer Últimos"
+    },
+    "posts": {
+      "eyebrow": "Últimos artículos",
+      "title": "Aprende a entrenar de forma más inteligente",
+      "subtitle": "Guías prácticas y sin rodeos sobre cómo elegir un split, desarrollar fuerza y recuperarse correctamente.",
+      "items": [
+        {
+          "title": "Upper/Lower vs Push/Pull/Legs: Which Split Is Right for You",
+          "excerpt": "Both splits build strength and size, but they ask very different things of your schedule and recovery. Here's how to decide between them.",
+          "category": "Training",
+          "readTime": "6 min read",
+          "date": "2024-01-15",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/838cc01c77504ea5914f49b2d6abce4f.jpg"
+        },
+        {
+          "title": "Progressive Overload 101",
+          "excerpt": "The single most important principle in strength training, explained simply with examples of how to apply it to any split.",
+          "category": "Training",
+          "readTime": "5 min read",
+          "date": "2024-02-02",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/507c1be2284f430489652203b0fb8387.jpg"
+        },
+        {
+          "title": "How Much Protein Do You Really Need",
+          "excerpt": "Cutting through the noise around protein intake with a practical, evidence-based target for lifters at any stage.",
+          "category": "Nutrition",
+          "readTime": "7 min read",
+          "date": "2024-02-20",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/ea531a6a25694fbf940c2a81c3a5d842.jpg"
+        },
+        {
+          "title": "Beginner Mistakes in the Gym",
+          "excerpt": "The most common errors new lifters make, from program hopping to skipping warm-ups, and how to fix each one.",
+          "category": "Training",
+          "readTime": "6 min read",
+          "date": "2024-03-05",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b49261e6fab048ea89a19e7cef21bd55.jpg"
+        },
+        {
+          "title": "The Science of Rest Days",
+          "excerpt": "Why recovery is where the actual muscle growth happens, and how to structure rest days around any training split.",
+          "category": "Recovery",
+          "readTime": "5 min read",
+          "date": "2024-03-22",
+          "image": "https://cdn.stocksnap.io/img-thumbs/960w/XGPVWM97KZ.jpg"
+        },
+        {
+          "title": "Building a Home Gym on a Budget",
+          "excerpt": "A practical, affordable equipment list that covers every exercise in our Upper/Lower and Full Body programs.",
+          "category": "Equipment",
+          "readTime": "8 min read",
+          "date": "2024-04-10",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/21a9920bc67646cc8dd1fa42beb1b190.jpg"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Recibe nuevos artículos en tu bandeja de entrada",
+      "subtitle": "Un email al mes con nuestros últimos consejos de entrenamiento. Sin spam, desuscríbete cuando quieras.",
+      "placeholder": "Ingresa tu email",
+      "submitLabel": "Suscribirse"
+    },
+    "categories": {
+      "items": [
+        "Training",
+        "Nutrition",
+        "Recovery",
+        "Equipment"
+      ]
+    }
+  },
+  "successStoriesPage": {
+    "hero": {
+      "eyebrow": "Resultados reales",
+      "title": "Transformaciones construidas una semana de entrenamiento a la vez",
+      "subtitle": "Estos miembros siguieron nuestros programas Upper/Lower, Push/Pull/Legs y Full Body exactamente como estaban escritos. Esto es lo que cambió.",
+      "primaryLabel": "Ver Transformaciones"
+    },
+    "stories": {
+      "eyebrow": "Transformaciones de clientes",
+      "title": "Antes y después, programa por programa",
+      "subtitle": "Seis miembros, seis splits diferentes, todos siguiendo un programa estructurado desde el primer día.",
+      "afterLabel": "Después",
+      "beforeLabel": "Antes",
+      "items": [
+        {
+          "name": "Maya Reyes",
+          "program": "Upper/Lower, 16 weeks",
+          "quote": "I finally have a program I understand and trust. My lifts have moved more in four months than they did in the two years before.",
+          "result": "Lost 32 lbs, gained visible muscle",
+          "beforeImage": "/images/maya-reyes-before.jpg",
+          "afterImage": "/images/maya-reyes-after.jpg"
+        },
+        {
+          "name": "Daniel Osei",
+          "program": "Push/Pull/Legs, 20 weeks",
+          "quote": "The six-day split sounded like a lot, but the structure made it easy to show up and know exactly what to do.",
+          "result": "Added 45 lbs to his squat and deadlift total",
+          "beforeImage": "/images/daniel-osei-before.jpg",
+          "afterImage": "/images/daniel-osei-after.jpg"
+        },
+        {
+          "name": "Priya Nair",
+          "program": "Full Body, 12 weeks",
+          "quote": "Three days a week was all I could commit to, and the program still got me real results fast.",
+          "result": "Lost 18 lbs and built visible core strength",
+          "beforeImage": "/images/priya-nair-before.jpg",
+          "afterImage": "/images/priya-nair-after.jpg"
+        },
+        {
+          "name": "Marcus Webb",
+          "program": "Upper/Lower, 24 weeks",
+          "quote": "Coaching check-ins kept me honest every single week. I've never stuck with a program this long before.",
+          "result": "Gained 14 lbs of muscle, dropped body fat 6%",
+          "beforeImage": "/images/marcus-webb-before.jpg",
+          "afterImage": "/images/marcus-webb-after.jpg"
+        },
+        {
+          "name": "Elena Castillo",
+          "program": "Push/Pull/Legs, 18 weeks",
+          "quote": "I was intimidated by the gym before this. Now I plan my whole week around training days.",
+          "result": "Lost 26 lbs, doubled her bench press",
+          "beforeImage": "/images/elena-castillo-before.jpg",
+          "afterImage": "/images/elena-castillo-after.jpg"
+        },
+        {
+          "name": "Jordan Pike",
+          "program": "Full Body, 14 weeks",
+          "quote": "As a parent with limited time, the three-day Full Body plan was the only thing that actually fit my life.",
+          "result": "Lost 22 lbs and improved mobility",
+          "beforeImage": "/images/jordan-pike-before.jpg",
+          "afterImage": "/images/jordan-pike-after.jpg"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Tu transformación comienza con tu primera sesión",
+      "subtitle": "Únete a miles de miembros que eligieron un split, siguieron el plan y vieron resultados reales.",
+      "primaryLabel": "Comienza Tu Transformación"
+    },
+    "featured": {
+      "eyebrow": "Destacado de Clientes",
+      "subtitle": "Transformaciones reales de miembros reales.",
+      "title": "Resultados Comprobados"
+    },
+    "stats": {
+      "items": [
+        {
+          "value": "2,400+",
+          "label": "Members transformed"
+        },
+        {
+          "value": "38,000 lbs",
+          "label": "Collectively lost"
+        },
+        {
+          "value": "9",
+          "label": "Years combined coaching"
+        },
+        {
+          "value": "+41%",
+          "label": "Average strength gain"
+        }
+      ]
+    }
+  }
+}

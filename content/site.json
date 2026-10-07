@@ -1,0 +1,71 @@
+{
+  "brand": {
+    "name": "ShiftSplit",
+    "tagline": "Train smarter. Lift heavier. Shift your split.",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "programs",
+      "href": "/programs"
+    },
+    {
+      "key": "pricing",
+      "href": "/pricing"
+    },
+    {
+      "key": "successStories",
+      "href": "/success-stories"
+    },
+    {
+      "key": "blog",
+      "href": "/blog"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    },
+    {
+      "key": "signup",
+      "href": "/signup"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/pricing"
+  },
+  "footerColumns": [
+    {
+      "key": "explore",
+      "links": [
+        { "key": "home", "href": "/" },
+        { "key": "pricing", "href": "/pricing" },
+        { "key": "programs", "href": "/programs" },
+        { "key": "blog", "href": "/blog" },
+        { "key": "successStories", "href": "/success-stories" },
+        { "key": "signup", "href": "/signup" }
+      ]
+    },
+    {
+      "key": "company",
+      "links": [
+        { "key": "about", "href": "/about" },
+        { "key": "contact", "href": "/contact" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 6
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
